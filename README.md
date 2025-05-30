@@ -51,24 +51,18 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[MQHANAD](https://t.me/MQHANAD)**<br>
 
 <div align="center" >
-<a  href="https://github.com/MQHANAD">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MQHANAD&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://raw.githubusercontent.com/MQHANAD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/MQHANAD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/MQHANAD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MQHANAD&theme=tokyonight" />
+</p>
 
-</a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/MQHANAD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
   
 <hr></hr>
 
 </div>
 
-# MQHANAD -->
-<!-- README.md
+# MQHANAD
